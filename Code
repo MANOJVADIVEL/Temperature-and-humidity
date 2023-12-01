@@ -35,6 +35,6 @@ void setup()
     lcd.print("H:");
     lcd.print(h);
     lcd.print("%");
-    delay(1000); //Delay 1 sec. 
+    delay(1000); 
 
 }
