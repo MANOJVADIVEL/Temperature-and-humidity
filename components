@@ -1,0 +1,8 @@
+DHT11 Sensor
+  DHT11 is a basic, ultra low-cost digital temperature and humidity sensor.
+  
+Arduino uno R3 board
+  It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header and a reset button.
+
+1602(16x2) LCD Display with I2C/IIC interface - Blue Backlight
+  The display is 16 character by 2 line display has a very clear and high contrast white text upon a blue background/backlight.
